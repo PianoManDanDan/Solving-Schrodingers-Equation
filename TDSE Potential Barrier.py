@@ -2,7 +2,7 @@
 """
 Created on Fri May 11 11:13:50 2018
 File Name: TDSE Potential Barrier
-@author: C1518116
+@author: Daniel Martin
 """
 
 import numpy as np

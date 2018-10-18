@@ -2,7 +2,7 @@
 """
 Created on Fri May 11 11:01:30 2018
 File Name:TDSE Infinite Square Well - Offset
-@author: C1518116
+@author: Daniel Martin
 """
 
 import numpy as np

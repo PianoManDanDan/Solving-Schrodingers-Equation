@@ -2,7 +2,7 @@
 """
 Created on Fri May 11 05:01:14 2018
 File Name: TDSE Parabolic Well
-@author: C1518116
+@author: Daniel Martin
 """
 
 import numpy as np

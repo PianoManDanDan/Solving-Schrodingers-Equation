@@ -2,7 +2,7 @@
 """
 Created on Fri May 11 11:20:11 2018
 File Name: TDSE Finite Potential Well
-@author: C1518116
+@author: Daniel Martin
 """
 
 import numpy as np

@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 19 21:26:13 2017
 File Name: Solving Schrodinger's equation
-@author: C1518116
+@author: Daniel Martin
 Last edited 07/03/2018
 
 This python script calculates the solution to the Schrodinger equation for an 

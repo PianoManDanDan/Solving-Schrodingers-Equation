@@ -2,7 +2,7 @@
 """
 Created on Fri May 11 11:06:19 2018
 File Name:TDSE Infinite Square Well - Velocity
-@author: C1518116
+@author: Daniel Martin
 """
 
 import numpy as np

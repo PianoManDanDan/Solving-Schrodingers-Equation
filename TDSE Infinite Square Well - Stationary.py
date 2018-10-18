@@ -2,7 +2,7 @@
 """
 Created on Fri May 11 04:50:58 2018
 File Name: TDSE Infinite Square Well - Stationary
-@author: C1518116
+@author: Daniel Martin
 """
 
 import numpy as np
